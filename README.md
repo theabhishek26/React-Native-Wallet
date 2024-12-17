@@ -26,7 +26,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/ayusshrathore/react-native-wallet
+  git clone https://github.com/theabhishek26/React-Native-Wallet.git
 ```
 
 Go to the project directory
@@ -61,6 +61,4 @@ Start the expo server. (You'll need a custom expo development client to run this
 
 Contributions are always welcome!
 
-## Feedback
 
-If you have any feedback, please reach out to me at heyfreaker@gmail.com
